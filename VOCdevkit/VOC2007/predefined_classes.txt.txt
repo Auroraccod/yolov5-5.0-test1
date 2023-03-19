@@ -1,0 +1,14 @@
+switch_left
+switch_mid
+switch_right
+press_enter
+press_exit
+light_upRed
+light_upGreen
+light_upOff
+light_midRed
+light_midGreen
+light_midOff
+light_downRed
+light_downGreen
+light_downOff
